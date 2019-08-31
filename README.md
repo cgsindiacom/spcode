@@ -1,1 +1,2 @@
 # spcode
+git init
